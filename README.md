@@ -7,7 +7,7 @@
 
 ### 🌿 ¿Qué encontrarás?
 
-No es solo una recopilación de apuntes o scripts de mis clases que vuelvo a repasar con mayor pausa, tiempo y calma. Es el diario ddonde una aprendiz de economía (es decir, yo) comparte que aprendió algo jajaja. 🌿
+No es solo una recopilación de apuntes o scripts de mis clases que vuelvo a repasar con mayor pausa, tiempo y calma. Es el diario donde una aprendiz de economía (es decir, yo) comparte que aprendió algo jajaja. 🌿
 
 📈 Apuntes teóricos de modelos que voy a intentar colocar del modo más simple.  
 🧠 Códigos que realicé en los talleres.  
