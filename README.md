@@ -7,9 +7,7 @@
 
 ### ¿Qué encontrarás?
 
-No es solo una recopilación de apuntes o scripts de mis clases de econometría avanzada que vuelvo a repasar con mayor pausa y calma. Es el diario de una iniciación donde la aprendiz de economía comparte que aprendió algo jajaja. 🌿
-
-### 🔮 ¿Qué encontrarás?
+No es solo una recopilación de apuntes o scripts de mis clases que vuelvo a repasar con mayor pausa, tiempo y calma. Es el diario de una iniciación donde la aprendiz de economía (es decir, yo) comparte que aprendió algo jajaja. 🌿
 
 📈 Apuntes teóricos de Modelos que voy a intentar colocar del modo más simple.  
 🧠 Códigos que realicé en los talleres.  
