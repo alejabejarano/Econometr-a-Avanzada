@@ -12,7 +12,7 @@ No es solo una recopilación de apuntes o scripts de mis clases que vuelvo a rep
 📈 Apuntes teóricos de Modelos que voy a intentar colocar del modo más simple.  
 🧠 Códigos que realicé en los talleres.  
 🕰️ Algunas reflexiones sobre el proceso.  
-⚖️ Y algo que quise hacer y por tiempo no pude hasta ahora, acompañar cada modelo colocando una referencia histórica. 
+⚖️ Y algo que quise hacer y, por tiempo, no pude hasta ahora, acompañar cada modelo colocando una reseña de una lectura histórica. 
 
 
 
