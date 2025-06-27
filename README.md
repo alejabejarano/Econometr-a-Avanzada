@@ -1,5 +1,9 @@
 # 📦✨ El baúl de que aprendí en Econometría Avanzada. ✨📦
 
+
+Los <span style="color:darkred">residuos heterocedásticos</span> indican que debemos usar <strong>MCG</strong>.
+
+
 *Las letras y los números son lenguajes, unos se concentran en la precisión y otros se pueden estirar, para abrirnos el mundo. ❤️📉*
 
 ![image](https://github.com/user-attachments/assets/9774865e-e974-4280-a109-382753cf25f1)
