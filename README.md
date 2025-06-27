@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/9774865e-e974-4280-a109-382753cf25f1)
 
 
-### ¿Qué encontrarás?
+### 🌿 ¿Qué encontrarás?
 
 No es solo una recopilación de apuntes o scripts de mis clases que vuelvo a repasar con mayor pausa, tiempo y calma. Es el diario de una iniciación, donde la aprendiz de economía (es decir, yo) comparte que aprendió algo jajaja. 🌿
 
