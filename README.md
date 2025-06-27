@@ -1,9 +1,6 @@
-# 📦✨ El baúl de que aprendí en Econometría Avanzada. ✨📦
+# 📦✨ El baúl de que aprendí en `Econometría Avanzada`. ✨📦
 
 *Las letras y los números son lenguajes, unos se concentran en la precisión y otros se pueden estirar, para abrirnos el mundo. ❤️📉*
-
-La variable `instrumental` debe ser relevante y exógena.
-
 
 ![image](https://github.com/user-attachments/assets/9774865e-e974-4280-a109-382753cf25f1)
 
