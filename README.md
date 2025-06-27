@@ -5,11 +5,9 @@
 ![image](https://github.com/user-attachments/assets/9774865e-e974-4280-a109-382753cf25f1)
 
 
-###🌾 ¿Qué es esta caja?
+### ¿Qué encontrarás?
 
-No es solo una recopilación de apuntes o scripts de mis clases de econometría avanzada.  
-Es el diario de una iniciación.  
-Es la cabaña en donde la aprendiz de economía comparte que aprendió algo jajaja. 🌿
+No es solo una recopilación de apuntes o scripts de mis clases de econometría avanzada que vuelvo a repasar con mayor pausa y calma. Es el diario de una iniciación donde la aprendiz de economía comparte que aprendió algo jajaja. 🌿
 
 ### 🔮 ¿Qué encontrarás?
 
