@@ -1,4 +1,4 @@
-# 📦✨ El baúl de que aprendí en Econometría Avanzada <span style="color:tomato;">texto en color</span>.✨📦
+# 📦✨ El baúl de que aprendí en Econometría Avanzada. ✨📦
 
 *Las letras y los números son lenguajes, unos se concentran en la precisión y otros se pueden estirar, para abrirnos el mundo. ❤️📉*
 
